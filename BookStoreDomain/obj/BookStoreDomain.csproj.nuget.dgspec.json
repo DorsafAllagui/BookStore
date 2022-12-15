@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL2\\source\\repos\\BookStore\\BookStoreDomain\\BookStoreDomain.csproj": {}
+    "C:\\Users\\DELL2\\OneDrive - podyam.com\\Bureau\\BITRECOVER_02-11-2022 08-17\\BookStore\\BookStoreDomain\\BookStoreDomain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL2\\source\\repos\\BookStore\\BookStoreDomain\\BookStoreDomain.csproj": {
+    "C:\\Users\\DELL2\\OneDrive - podyam.com\\Bureau\\BITRECOVER_02-11-2022 08-17\\BookStore\\BookStoreDomain\\BookStoreDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL2\\source\\repos\\BookStore\\BookStoreDomain\\BookStoreDomain.csproj",
+        "projectUniqueName": "C:\\Users\\DELL2\\OneDrive - podyam.com\\Bureau\\BITRECOVER_02-11-2022 08-17\\BookStore\\BookStoreDomain\\BookStoreDomain.csproj",
         "projectName": "BookStoreDomain",
-        "projectPath": "C:\\Users\\DELL2\\source\\repos\\BookStore\\BookStoreDomain\\BookStoreDomain.csproj",
+        "projectPath": "C:\\Users\\DELL2\\OneDrive - podyam.com\\Bureau\\BITRECOVER_02-11-2022 08-17\\BookStore\\BookStoreDomain\\BookStoreDomain.csproj",
         "packagesPath": "C:\\Users\\DELL2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL2\\source\\repos\\BookStore\\BookStoreDomain\\obj\\",
+        "outputPath": "C:\\Users\\DELL2\\OneDrive - podyam.com\\Bureau\\BITRECOVER_02-11-2022 08-17\\BookStore\\BookStoreDomain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL2\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
