@@ -110,3 +110,10 @@ C:\Users\DELL2\OneDrive - podyam.com\Bureau\BITRECOVER_02-11-2022 08-17\BookStor
 C:\Users\DELL2\OneDrive - podyam.com\Bureau\BITRECOVER_02-11-2022 08-17\BookStore\BookStore\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\DELL2\OneDrive - podyam.com\Bureau\BITRECOVER_02-11-2022 08-17\BookStore\BookStore\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\DELL2\OneDrive - podyam.com\Bureau\BITRECOVER_02-11-2022 08-17\BookStore\BookStore\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\DELL2\OneDrive - podyam.com\Bureau\BITRECOVER_02-11-2022 08-17\BookStore\BookStore\obj\Debug\net6.0\BookStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL2\OneDrive - podyam.com\Bureau\BITRECOVER_02-11-2022 08-17\BookStore\BookStore\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\DELL2\OneDrive - podyam.com\Bureau\BITRECOVER_02-11-2022 08-17\BookStore\BookStore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\DELL2\OneDrive - podyam.com\Bureau\BITRECOVER_02-11-2022 08-17\BookStore\BookStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\DELL2\OneDrive - podyam.com\Bureau\BITRECOVER_02-11-2022 08-17\BookStore\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL2\OneDrive - podyam.com\Bureau\BITRECOVER_02-11-2022 08-17\BookStore\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL2\OneDrive - podyam.com\Bureau\BITRECOVER_02-11-2022 08-17\BookStore\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll

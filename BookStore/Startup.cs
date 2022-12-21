@@ -1,6 +1,10 @@
 ﻿using BookStoreInfrastructure.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
+using AutoMapper;
+using BookStore.Configuration;
+using Microsoft.OpenApi.Models;
+
 namespace BookStore
 {
     public class Startup
@@ -19,8 +23,17 @@ namespace BookStore
             {
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
             });
-
+            services.AddAutoMapper(typeof(Startup));
             services.AddControllers();
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo()
+                {
+                    Title = "BookStore API",
+                    Version = "v1"
+                });
+            });
+            services.ResolveDependencies();
         }
     }
 }
